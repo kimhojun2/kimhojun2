@@ -2,7 +2,7 @@
   <img src="./images/title.png" width="500"/>
 </p>
 
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h3 align="center"><strong>✨ Tech Stack ✨</strong></h3>
 
 <!-- 🧑‍💻 Languages -->
 <h4 align="center">🧑‍💻 Languages</h4>
@@ -43,7 +43,7 @@
 <br>
 
 <!-- 🛠 Tools -->
-<h3 align="center">🛠 Tools 🛠</h3>
+<h3 align="center"><strong>🛠 Tools 🛠</strong></h3>
 <div align="center">
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Gerrit-F0F0F0?style=for-the-badge&logo=gerrit&logoColor=000000" />&nbsp
