@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/title.png" width="200"/>
+  <img src="./images/title.png" width="400"/>
 </p>
 
 <h3 align="center"><strong>✨ Tech Stack ✨</strong></h3>
